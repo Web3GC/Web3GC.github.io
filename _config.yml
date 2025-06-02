@@ -1,5 +1,6 @@
-titel: Chris Williams
+title: Chris Williams
 #logo: /assets/ig/headshot_circle.png
 #description: text below image
-#show_downloads: true
-theme: jekyll-theme-minimal
+show_downloads: true
+theme: minima
+Author: Web3GC
